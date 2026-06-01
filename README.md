@@ -1,12 +1,12 @@
 # Customer Financial Behavior & Risk Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes customer financial behavior and identifies potential risk indicators using Python. The analysis focuses on transaction patterns, customer segmentation, account activity, anomaly detection, and financial risk assessment to support data-driven decision-making.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze customer transaction behavior across different account types.
 - Compare debit and credit transaction trends over time.
@@ -17,7 +17,7 @@ This project analyzes customer financial behavior and identifies potential risk 
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 The dataset contains **800+ customer transactions** with features such as:
 
@@ -33,7 +33,7 @@ The dataset contains **800+ customer transactions** with features such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -45,7 +45,7 @@ The dataset contains **800+ customer transactions** with features such as:
 
 ---
 
-## 📈 Analysis Performed
+## Analysis Performed
 
 ### 1. Data Cleaning & Preprocessing
 - Converted financial fields into numeric format.
@@ -85,7 +85,7 @@ The dataset contains **800+ customer transactions** with features such as:
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 - Identified **26 suspicious accounts (13.5%)** using multi-factor risk scoring.
 - Detected **48 high-volatility accounts (25%)**.
@@ -96,7 +96,7 @@ The dataset contains **800+ customer transactions** with features such as:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Monitor high-risk and suspicious accounts through automated alerts.
 - Reduce dormancy using targeted customer engagement campaigns.
@@ -106,13 +106,13 @@ The dataset contains **800+ customer transactions** with features such as:
 
 ---
 
-## 📌 Project Outcome
+## Project Outcome
 
 The project successfully delivered a comprehensive customer financial behavior and risk analysis framework. The insights generated can help financial institutions improve customer engagement, detect financial risks early, and support strategic decision-making.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 customer-financial-behavior-risk-analysis/
@@ -128,7 +128,7 @@ customer-financial-behavior-risk-analysis/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Nihal Mahto**
 
